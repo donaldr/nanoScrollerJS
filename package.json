@@ -23,6 +23,9 @@
     "directories": {
       "lib": "bin/javascripts"
     },
-    "format": "amd"
+    "format": "amd",
+    "dependencies": {
+      "jquery": ">= 1.6"
+    }
   }
 }
