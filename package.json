@@ -25,7 +25,7 @@
     },
     "format": "amd",
     "dependencies": {
-      "jquery": ">= 1.6"
+      "jquery": "^2.1.3"
     }
   }
 }
